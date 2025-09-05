@@ -1,8 +1,6 @@
 # Stock-Price-Analysis
 Stock-Price-Analysis
 
-Perfect ✅ Here’s a **beginner-friendly `README.md` template** you can directly use for your GitHub Kafka local setup project:
-
 ---
 
 # 🚀 Kafka Local Setup (Beginner Project)
